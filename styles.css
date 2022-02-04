@@ -1,1 +1,116 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-family: "Futura";
+    font-size: 96px;
+}
+ #mainHeading {
+     color: red;
+     font-size: 96px;
+ }
+
+
+h2 {
+    text-align: center;
+    color: black;
+    font-family: "Futura";
+    font-weight: normal;
+    font-size: 24px;
+    
+}
+
+.cerveloBlock {
+    display: flex;
+    align-items: center;
+}
+
+.shadowsBlock {
+    display: flex;
+    align-items: center;
+}
+
+.ozarkBlock {
+    display: flex;
+    align-items: center;
+}
+
+#cerveloQuote {
+    padding: 150px;
+}
+
+
+#shadowsQuote {
+    padding: 140px;
+}
+
+#ozarkQuote {
+    padding: 90px;
+}
+
+blockquote {
+    font-family: "Hoefler Text";
+    color: teal;
+    font-size: 24px;
+   
+    
+}
+
+blockquote span {
+    color: black;
+    display: block;
+    margin-top: 1em;
+    font-style: italic;
+    font-size: 14px;
+    font-family: "Futura";
+
+}
+.footer {
+    color: black;
+    font-family: "Futura";
+    font-size: 14px;
+    text-align: center;
+}
+
+#cervelo {
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    display: block;
+    padding: 75px;
+    width: 1000px;
+    
+}
+
+#dogwoodBlur {
+    max-width: 100%;
+    height: auto;
+}
+
+#ozark {
+    max-width: 100%;
+    height: auto;
+    width: 1000px;
+    margin-left: auto;
+    display: block;
+    padding: 75px;
+}
+
+#shadows {
+    max-width: 100%;
+    height: auto;
+    width: 1000px;
+    padding: 75px;
+}
+
+.funParagraph {
+    color: green;
+    font-family: "Futura";
+    font-size: 18px;
+    text-align: right;
+    padding: 75px;
+}
