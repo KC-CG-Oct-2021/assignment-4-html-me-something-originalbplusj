@@ -107,6 +107,9 @@ footer {
     padding: 75px;
 }
 
+.funParagraph {
+    color: green;
+}
 
 #testP {
     color: green;
