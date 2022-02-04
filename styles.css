@@ -109,6 +109,9 @@ blockquote span {
 
 .funParagraph {
     color: green;
+    
+}
+#testP {
     font-family: "Futura";
     font-size: 18px;
     text-align: right;
