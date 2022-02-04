@@ -69,7 +69,7 @@ blockquote span {
     font-family: "Futura";
 
 }
-.footer {
+footer {
     color: black;
     font-family: "Futura";
     font-size: 14px;
@@ -107,11 +107,9 @@ blockquote span {
     padding: 75px;
 }
 
-.funParagraph {
-    color: green;
-    
-}
+
 #testP {
+    color: green;
     font-family: "Futura";
     font-size: 18px;
     text-align: right;
